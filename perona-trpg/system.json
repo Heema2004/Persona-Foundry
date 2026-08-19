@@ -1,0 +1,22 @@
+{
+  "id": "persona-trpg",
+  "title": "Persona TRPG",
+  "description": "A Foundry VTT system for Persona/SMT-style tabletop play.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "authors": [
+    { "name": "Your Name" }
+  ],
+  "esmodules": ["scripts/persona-trpg.js"],
+  "styles": ["styles/persona-trpg.css"],
+  "languages": [
+    { "lang": "en", "name": "English", "path": "lang/en.json" }
+  ],
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "hp",
+  "secondaryTokenAttribute": "sp"
+}
