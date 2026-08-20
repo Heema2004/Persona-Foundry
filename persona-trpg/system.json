@@ -8,13 +8,23 @@
     "verified": "13"
   },
   "authors": [
-    { "name": "Ibrahim" }
+    { "name": "Heema2004" }
   ],
   "esmodules": ["scripts/persona-trpg.js"],
-  "styles": ["styles/persona-trpg.css"],
+  "styles": ["style/persona-trpg.css"],
   "languages": [
     { "lang": "en", "name": "English", "path": "lang/en.json" }
   ],
+  "documentTypes": {
+    "Actor": {
+      "character": {},
+      "persona": {}
+    },
+    "Item": {
+      "skill": {},
+      "trait": {}
+    }
+  },
   "gridDistance": 5,
   "gridUnits": "ft",
   "primaryTokenAttribute": "hp",
