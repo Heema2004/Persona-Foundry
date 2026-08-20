@@ -11,7 +11,7 @@
     { "name": "Heema2004" }
   ],
   "esmodules": ["scripts/persona-trpg.js"],
-  "styles": ["style/persona-trpg.css"],
+  "styles": ["styles/persona-trpg.css"],
   "languages": [
     { "lang": "en", "name": "English", "path": "lang/en.json" }
   ],
