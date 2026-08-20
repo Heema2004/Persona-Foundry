@@ -8,7 +8,7 @@
     "verified": "13"
   },
   "authors": [
-    { "name": "Your Name" }
+    { "name": "Ibrahim" }
   ],
   "esmodules": ["scripts/persona-trpg.js"],
   "styles": ["styles/persona-trpg.css"],
